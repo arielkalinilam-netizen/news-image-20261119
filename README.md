@@ -13,11 +13,11 @@ Entry for make.fun's bounty [**Sum up 19 November's world news in one image**](h
 carrying the stories that dominated the day —
 
 1. **Shenzhen trilateral** — Trump, Xi and Putin hold the first-ever three-way
-   summit at APEC; the US and China say they want to help end the Ukraine war,
+   summit at APEC; Washington and Beijing say they want to help end the war,
    Zelenskyy awaits the envoys' debrief.
 2. **Caracas** — the US and Venezuela sign a deal to reestablish military ties
    (Hegseth), continuing on to Colombia for anti-drug cooperation.
-3. **Markets** — futures rally, Anthropic's record IPO debut, OPEC saying
+3. **Markets** — futures rally, Anthropic's IPO debuts at a record, OPEC saying
    fossil fuels stay vital to electrification.
 
 Each story gets its own hand-drawn panel: flags, handshake, laurel, map, chart,
